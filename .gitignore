@@ -1,3 +1,6 @@
+# Ignoriere gradle.properties
+gradle.properties
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
